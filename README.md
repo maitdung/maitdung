@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="./assets/profile-banner.gif" width="100%" alt="maitdung — Web, mobile and developer tools" />
-</p>
-
-<p align="center">
-  <b>WEB &nbsp; / &nbsp; MOBILE &nbsp; / &nbsp; BACKEND &nbsp; / &nbsp; AUTOMATION</b>
+  <img src="./assets/profile-banner-premium.gif" width="100%" alt="maitdung — Web, mobile and developer tools" />
 </p>
 
 <p align="center">
   <a href="#about">About</a> &nbsp;·&nbsp;
-  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
   <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
   <a href="#github-insights">GitHub Insights</a> &nbsp;·&nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
   <a href="https://github.com/maitdung?tab=repositories">Repositories ↗</a>
 </p>
 
@@ -27,61 +23,6 @@ I build across web interfaces, mobile applications, backend APIs, and developer 
 <td width="33%" valign="top"><b>01 / Interfaces</b><br /><sub>Web experiences and mobile applications.</sub></td>
 <td width="33%" valign="top"><b>02 / Systems</b><br /><sub>Backend services and practical developer tools.</sub></td>
 <td width="33%" valign="top"><b>03 / Delivery</b><br /><sub>Automation, release workflows, and distribution.</sub></td>
-</tr>
-</table>
-
-## Featured projects
-
-A selection of public work across platforms.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-  <sub>01 · DEVELOPER TOOLS</sub>
-  <h3><a href="https://github.com/maitdung/DiverWin">FreshWin / DiverWin</a></h3>
-  <p>PowerShell tooling for Windows assessment, trusted application planning, and recovery workflows.</p>
-  <p><sub><b>PowerShell · Windows</b></sub></p>
-  <a href="https://github.com/maitdung/DiverWin">Explore project →</a>
-</td>
-<td width="50%" valign="top">
-  <sub>02 · WEB APPLICATION</sub>
-  <h3><a href="https://github.com/maitdung/English">MTD Lingo</a></h3>
-  <p>A learning application using React, TypeScript, Tailwind CSS, and Vite.</p>
-  <p><sub><b>React · TypeScript</b></sub></p>
-  <a href="https://github.com/maitdung/English">Explore project →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <sub>03 · BACKEND API</sub>
-  <h3><a href="https://github.com/maitdung/vaultsec-backend-">VAULT.SEC</a></h3>
-  <p>An Express backend integrating the VirusTotal API for file scanning.</p>
-  <p><sub><b>Node.js · Express</b></sub></p>
-  <a href="https://github.com/maitdung/vaultsec-backend-">Explore project →</a>
-</td>
-<td width="50%" valign="top">
-  <sub>04 · RELEASE ENGINEERING</sub>
-  <h3><a href="https://github.com/maitdung/PulsePlay-Releases">PulsePlay</a></h3>
-  <p>App release assets, GitHub Actions workflows, and public update feeds.</p>
-  <p><sub><b>GitHub Actions · Distribution</b></sub></p>
-  <a href="https://github.com/maitdung/PulsePlay-Releases">Explore project →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <sub>05 · MOBILE APPLICATION</sub>
-  <h3><a href="https://github.com/maitdung/ClothingStore">ClothingStore</a></h3>
-  <p>A Flutter clothing store project exploring mobile application development.</p>
-  <p><sub><b>Flutter · Dart</b></sub></p>
-  <a href="https://github.com/maitdung/ClothingStore">Explore project →</a>
-</td>
-<td width="50%" valign="top">
-  <sub>06 · FRONTEND PRACTICE</sub>
-  <h3><a href="https://github.com/maitdung/website-clone-angular">Angular Website</a></h3>
-  <p>A website clone project built with Angular 19 and TypeScript.</p>
-  <p><sub><b>Angular · TypeScript</b></sub></p>
-  <a href="https://github.com/maitdung/website-clone-angular">Explore project →</a>
-</td>
 </tr>
 </table>
 
@@ -258,6 +199,61 @@ Public activity and repository language distribution.
 </p>
 
 <p align="center"><sub>Stats are provided by GitHub Profile Summary Cards and may refresh with a delay. Language charts describe repositories, not skill levels.</sub></p>
+
+## Featured projects
+
+A selection of public work across platforms.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <sub>01 · DEVELOPER TOOLS</sub>
+  <h3><a href="https://github.com/maitdung/DiverWin">FreshWin / DiverWin</a></h3>
+  <p>PowerShell tooling for Windows assessment, trusted application planning, and recovery workflows.</p>
+  <p><sub><b>PowerShell · Windows</b></sub></p>
+  <a href="https://github.com/maitdung/DiverWin">Explore project →</a>
+</td>
+<td width="50%" valign="top">
+  <sub>02 · WEB APPLICATION</sub>
+  <h3><a href="https://github.com/maitdung/English">MTD Lingo</a></h3>
+  <p>A learning application using React, TypeScript, Tailwind CSS, and Vite.</p>
+  <p><sub><b>React · TypeScript</b></sub></p>
+  <a href="https://github.com/maitdung/English">Explore project →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <sub>03 · BACKEND API</sub>
+  <h3><a href="https://github.com/maitdung/vaultsec-backend-">VAULT.SEC</a></h3>
+  <p>An Express backend integrating the VirusTotal API for file scanning.</p>
+  <p><sub><b>Node.js · Express</b></sub></p>
+  <a href="https://github.com/maitdung/vaultsec-backend-">Explore project →</a>
+</td>
+<td width="50%" valign="top">
+  <sub>04 · RELEASE ENGINEERING</sub>
+  <h3><a href="https://github.com/maitdung/PulsePlay-Releases">PulsePlay</a></h3>
+  <p>App release assets, GitHub Actions workflows, and public update feeds.</p>
+  <p><sub><b>GitHub Actions · Distribution</b></sub></p>
+  <a href="https://github.com/maitdung/PulsePlay-Releases">Explore project →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <sub>05 · MOBILE APPLICATION</sub>
+  <h3><a href="https://github.com/maitdung/ClothingStore">ClothingStore</a></h3>
+  <p>A Flutter clothing store project exploring mobile application development.</p>
+  <p><sub><b>Flutter · Dart</b></sub></p>
+  <a href="https://github.com/maitdung/ClothingStore">Explore project →</a>
+</td>
+<td width="50%" valign="top">
+  <sub>06 · FRONTEND PRACTICE</sub>
+  <h3><a href="https://github.com/maitdung/website-clone-angular">Angular Website</a></h3>
+  <p>A website clone project built with Angular 19 and TypeScript.</p>
+  <p><sub><b>Angular · TypeScript</b></sub></p>
+  <a href="https://github.com/maitdung/website-clone-angular">Explore project →</a>
+</td>
+</tr>
+</table>
 
 ---
 
