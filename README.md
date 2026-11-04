@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="./assets/profile-banner-premium.gif" width="100%" alt="maitdung — Web, mobile and developer tools" />
+  <img src="./assets/profile-banner-motion.gif" width="100%" alt="maitdung — Web, mobile and developer tools" />
 </p>
 
 <p align="center">
   <a href="#about">About</a> &nbsp;·&nbsp;
   <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+  <a href="#achievement-goals">Goals</a> &nbsp;·&nbsp;
   <a href="#github-insights">GitHub Insights</a> &nbsp;·&nbsp;
   <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
   <a href="https://github.com/maitdung?tab=repositories">Repositories ↗</a>
@@ -185,6 +186,37 @@ A broad technology toolbox across languages, platforms, and the development life
   <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" />
 </p>
+
+## Achievement goals
+
+Five milestones to work toward. These are goal illustrations, not unlocked GitHub achievements.
+
+<table>
+<tr>
+<td width="20%" align="center" valign="top">
+<a href="https://github.com/Schweinepriester/github-profile-achievements#achievements"><img width="100" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" alt="Quickdraw — goal, not unlocked" /></a><br />
+<b>Quickdraw</b><br /><sub>GOAL · NOT UNLOCKED</sub>
+</td>
+<td width="20%" align="center" valign="top">
+<a href="https://github.com/Schweinepriester/github-profile-achievements#achievements"><img width="100" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" alt="YOLO — goal, not unlocked" /></a><br />
+<b>YOLO</b><br /><sub>GOAL · NOT UNLOCKED</sub>
+</td>
+<td width="20%" align="center" valign="top">
+<a href="https://github.com/Schweinepriester/github-profile-achievements#achievements"><img width="100" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" alt="Pair Extraordinaire — goal, not unlocked" /></a><br />
+<b>Pair Extraordinaire</b><br /><sub>GOAL · NOT UNLOCKED</sub>
+</td>
+<td width="20%" align="center" valign="top">
+<a href="https://github.com/Schweinepriester/github-profile-achievements#achievements"><img width="100" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" alt="Galaxy Brain — goal, not unlocked" /></a><br />
+<b>Galaxy Brain</b><br /><sub>GOAL · NOT UNLOCKED</sub>
+</td>
+<td width="20%" align="center" valign="top">
+<a href="https://github.com/Schweinepriester/github-profile-achievements#achievements"><img width="100" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" alt="Starstruck — goal, not unlocked" /></a><br />
+<b>Starstruck</b><br /><sub>GOAL · NOT UNLOCKED</sub>
+</td>
+</tr>
+</table>
+
+<sub>Official achievements appear in GitHub's profile sidebar when GitHub awards them. [Badge reference](https://github.com/Schweinepriester/github-profile-achievements#achievements).</sub>
 
 ## GitHub insights
 
