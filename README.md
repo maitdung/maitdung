@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
-  <a href="#technology-stack">Tech stack</a> &nbsp;·&nbsp;
+  <a href="#-technology-stack">Tech stack</a> &nbsp;·&nbsp;
   <a href="#language--technology-radar">Language radar</a> &nbsp;·&nbsp;
   <a href="https://github.com/maitdung?tab=repositories">All repositories</a>
 </p>
