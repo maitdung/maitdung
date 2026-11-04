@@ -189,17 +189,17 @@ A broad technology toolbox across languages, platforms, and the development life
 
 ## Achievement goals
 
-Five milestones to work toward. These are goal illustrations, not unlocked GitHub achievements.
+Quickdraw and YOLO are unlocked on GitHub. The other three badges are future goals, not unlocked achievements.
 
 <table>
 <tr>
 <td width="20%" align="center" valign="top">
-<a href="https://github.com/Schweinepriester/github-profile-achievements#achievements"><img width="100" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" alt="Quickdraw — goal, not unlocked" /></a><br />
-<b>Quickdraw</b><br /><sub>GOAL · NOT UNLOCKED</sub>
+<a href="https://github.com/maitdung?achievement=quickdraw&amp;tab=achievements"><img width="100" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" alt="Quickdraw — unlocked on GitHub" /></a><br />
+<b>Quickdraw</b><br /><sub>✓ UNLOCKED</sub>
 </td>
 <td width="20%" align="center" valign="top">
-<a href="https://github.com/Schweinepriester/github-profile-achievements#achievements"><img width="100" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" alt="YOLO — goal, not unlocked" /></a><br />
-<b>YOLO</b><br /><sub>GOAL · NOT UNLOCKED</sub>
+<a href="https://github.com/maitdung?achievement=yolo&amp;tab=achievements"><img width="100" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" alt="YOLO — unlocked on GitHub" /></a><br />
+<b>YOLO</b><br /><sub>✓ UNLOCKED</sub>
 </td>
 <td width="20%" align="center" valign="top">
 <a href="https://github.com/Schweinepriester/github-profile-achievements#achievements"><img width="100" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" alt="Pair Extraordinaire — goal, not unlocked" /></a><br />
