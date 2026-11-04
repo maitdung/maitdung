@@ -24,8 +24,8 @@ python3 -m venv .venv
 
 The script writes:
 
-- `assets/profile-banner-motion.gif`: the animated banner used by the profile.
-- `assets/profile-banner-motion.png`: a static preview of the first frame.
+- `assets/profile-banner-clean.gif`: the animated banner used by the profile.
+- `assets/profile-banner-clean.png`: a static preview of the first frame.
 
 The animation has 72 frames at 1600 × 540 pixels and loops continuously. The GIF stores each frame for 80 ms. A shared palette keeps colors consistent across frames.
 

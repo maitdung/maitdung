@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner-motion.gif" width="100%" alt="maitdung — Web, mobile and developer tools" />
+  <img src="./assets/profile-banner-clean.gif" width="100%" alt="maitdung — Web, mobile and developer tools" />
 </p>
 
 <p align="center">

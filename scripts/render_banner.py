@@ -75,11 +75,6 @@ for i in range(72):
  for offset in (0,math.pi):
   px,py,pz=curve(phase*.5+offset,phase)
   pd.ellipse((px-3,py-3,px+3,py+3),fill='#d8fff3')
- # Central glass tile, offset from the knot for a layered appearance.
- tile=Image.new('RGBA',(W,H)); td=ImageDraw.Draw(tile)
- td.rounded_rectangle((1144,197,1276,329),radius=28,fill=(12,23,34,225),outline=(111,222,201,110),width=2)
- td.text((1172,205),'m',font=font(75,2),fill='#d6fff3')
- im=Image.alpha_composite(im,tile)
  # Thin travelling accent on the left, keeping motion away from the text.
  d=ImageDraw.Draw(im)
  c=int(150+45*(math.sin(phase)+1)/2)
@@ -93,7 +88,7 @@ palette=samples.quantize(colors=256)
 indexed=[fr.quantize(palette=palette,dither=Image.Dither.NONE) for fr in frames]
 asset_dir=Path(__file__).resolve().parents[1] / 'assets'
 asset_dir.mkdir(parents=True, exist_ok=True)
-path=asset_dir / 'profile-banner-motion.gif'
+path=asset_dir / 'profile-banner-clean.gif'
 indexed[0].save(path,save_all=True,append_images=indexed[1:],duration=80,loop=0,optimize=True,disposal=1)
-frames[0].save(asset_dir / 'profile-banner-motion.png')
+frames[0].save(asset_dir / 'profile-banner-clean.png')
 print(json.dumps({'bytes':path.stat().st_size,'frames':len(indexed),'size':[W,H]}))
