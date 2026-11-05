@@ -17,15 +17,50 @@
 
 ### Hi, I'm @maitdung 👋
 
-I build across web interfaces, mobile applications, backend APIs, and developer tooling. My public work brings together application development, Windows automation, and release workflows.
+**Developer focused on web, mobile, backend services, and automation.**
+
+I build applications and practical tools that turn ideas into usable software. My work spans user interfaces, mobile experiences, API integrations, Windows utilities, and release workflows. I’m interested in how these pieces fit together—from the first interaction on a screen to the services and processes behind it.
+
+My public projects include web applications built with React and Angular, a Flutter clothing store project, a file-scanning backend integrating the VirusTotal API, PowerShell tooling for Windows, and release automation for PulsePlay. Together, they reflect my interest in building across platforms and solving problems throughout the development lifecycle.
+
+#### What I work on
 
 <table>
 <tr>
-<td width="33%" valign="top"><b>01 / Interfaces</b><br /><sub>Web experiences and mobile applications.</sub></td>
-<td width="33%" valign="top"><b>02 / Systems</b><br /><sub>Backend services and practical developer tools.</sub></td>
-<td width="33%" valign="top"><b>03 / Delivery</b><br /><sub>Automation, release workflows, and distribution.</sub></td>
+<td width="33%" valign="top">
+<b>01 / Web experiences</b>
+<p>Interfaces and application flows using JavaScript, TypeScript, React, Angular, and modern styling tools.</p>
+</td>
+<td width="33%" valign="top">
+<b>02 / Mobile applications</b>
+<p>Mobile interfaces and application features with Flutter and Dart, with attention to usability across screen sizes.</p>
+</td>
+<td width="33%" valign="top">
+<b>03 / Backend & integrations</b>
+<p>API services, file-handling workflows, and third-party integrations using Node.js and Express.</p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<b>04 / Developer tools</b>
+<p>PowerShell utilities that help inspect Windows systems, plan changes, and simplify repetitive tasks.</p>
+</td>
+<td width="33%" valign="top">
+<b>05 / Automation & delivery</b>
+<p>GitHub Actions workflows, release assets, and update feeds that connect development with distribution.</p>
+</td>
+<td width="33%" valign="top">
+<b>06 / Further exploration</b>
+<p>AI-assisted development, cloud platforms, and the broader language and tooling ecosystem.</p>
+</td>
 </tr>
 </table>
+
+#### How I approach development
+
+I aim for clear interfaces, understandable code, and documentation that makes a project easier to run and maintain. I value small, testable improvements, explicit handling of errors and permissions, and checking what actually works before calling a change complete.
+
+This GitHub is where I share projects, document experiments, and develop ideas through iteration. Explore the repositories for implementation details, project documentation, and ongoing updates.
 
 ## Tech stack
 
